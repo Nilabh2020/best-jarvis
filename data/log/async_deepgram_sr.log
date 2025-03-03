@@ -1,0 +1,4 @@
+{"asctime": "2025-03-02 22:12:08,905", "levelname": "INFO", "message": "connected", "name": "c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\modules\\vocalize\\async_deepgram_sr.py", "funcName": "get_transcript"}
+{"asctime": "2025-03-02 22:12:08,908", "levelname": "ERROR", "message": "No module named 'pyaudio'", "name": "c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\modules\\vocalize\\async_deepgram_sr.py", "funcName": "get_transcript"}
+{"asctime": "2025-03-02 22:12:48,932", "levelname": "INFO", "message": "connected", "name": "c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\modules\\vocalize\\async_deepgram_sr.py", "funcName": "get_transcript"}
+{"asctime": "2025-03-02 22:12:49,106", "levelname": "INFO", "message": "microphone started", "name": "c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\modules\\vocalize\\async_deepgram_sr.py", "funcName": "get_transcript"}

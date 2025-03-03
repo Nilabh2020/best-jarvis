@@ -1,0 +1,296 @@
+2024-10-31 12:46:44,693 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:46:44,705 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 12:46:44,709 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000023766470E20>}
+2024-10-31 12:46:59,429 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4688116209327402551}
+2024-10-31 12:47:51,563 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:47:51,570 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness']}
+2024-10-31 12:47:51,577 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000020E2DBE1420>}
+2024-10-31 12:48:05,279 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4612670256873173844}
+2024-10-31 12:50:07,203 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:50:07,213 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 12:50:07,215 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000025CD27214B0>}
+2024-10-31 12:50:19,385 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -7498626855989216397}
+2024-10-31 12:53:59,188 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:53:59,201 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 12:53:59,208 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000023771CC1420>}
+2024-10-31 12:54:10,394 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4730411175014330078}
+2024-10-31 12:55:19,109 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:55:19,122 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 12:55:19,128 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000230890FE620>}
+2024-10-31 12:55:29,977 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3068178486889770437}
+2024-10-31 12:57:20,243 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 12:57:20,259 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 12:57:20,265 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002122C461450>}
+2024-10-31 13:02:37,867 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 13:02:37,884 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 13:02:37,890 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001F066451660>}
+2024-10-31 13:03:15,593 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 7203766155427396327}
+2024-10-31 13:07:42,802 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 13:07:42,807 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Excitement']}
+2024-10-31 13:07:42,809 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000018C797D1660>}
+2024-10-31 13:08:23,633 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8640106887058088529}
+2024-10-31 13:10:35,100 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -2221915919055764149}
+2024-10-31 13:10:53,178 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8843394548555465789}
+2024-10-31 13:12:55,377 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 5006647771320021100}
+2024-10-31 13:21:46,345 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 13:21:46,359 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 13:21:46,364 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001837FDE16C0>}
+2024-10-31 13:21:56,421 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8493229988482338799}
+2024-10-31 13:42:53,337 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-10-31 13:42:53,372 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-10-31 13:42:53,375 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000024AAF2AB9A0>}
+2024-10-31 13:43:28,112 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 9155760070567735641}
+2024-10-31 13:43:46,220 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4433649509741997504}
+2024-10-31 13:44:11,097 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4212630837295398031}
+2024-11-01 03:08:40,643 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-01 03:08:40,674 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-11-01 03:08:40,678 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000222CE8918A0>}
+2024-11-01 03:10:28,309 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-01 03:10:28,345 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-11-01 03:10:28,348 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002A91020D930>}
+2024-11-01 03:10:44,269 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -5755632276146485373}
+2024-11-01 03:13:37,402 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-01 03:13:37,409 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness']}
+2024-11-01 03:13:37,412 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001A58DB37580>}
+2024-11-01 03:13:45,056 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1226080278226131914}
+2024-11-01 03:14:24,720 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-01 03:14:24,726 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness']}
+2024-11-01 03:14:24,729 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002BB7FC77490>}
+2024-11-01 03:14:40,154 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8367779518639647995}
+2024-11-06 22:38:10,142 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-06 22:38:10,154 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-11-06 22:38:10,157 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002AF13601C00>}
+2024-11-06 22:38:20,542 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8938745038126675347}
+2024-11-06 22:39:01,659 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4402590287780812575}
+2024-11-06 22:39:32,031 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -5740017681489460562}
+2024-11-06 22:42:37,909 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-06 22:42:37,927 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-11-06 22:42:37,930 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000259FD51AFE0>}
+2024-11-06 22:43:21,695 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8621149878208910872}
+2024-11-08 04:26:14,289 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-08 04:26:14,295 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-08 04:26:14,302 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000021E8A6E5EA0>}
+2024-11-08 04:26:29,039 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -1612437784661155429}
+2024-11-08 04:26:47,753 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3641643000594755403}
+2024-11-09 00:15:22,897 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-09 00:15:22,992 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-09 00:15:22,996 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001D9CA7B67D0>}
+2024-11-09 00:16:56,827 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-09 00:16:56,833 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-09 00:16:56,835 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000206861067A0>}
+2024-11-09 00:17:10,859 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 7296239069947269809}
+2024-11-09 00:17:32,814 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1137504202241568208}
+2024-11-09 02:17:30,686 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-09 02:17:30,695 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-09 02:17:30,704 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000022AC15D66E0>}
+2024-11-25 05:45:53,509 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 05:45:53,520 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-25 05:45:53,523 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000264224372B0>}
+2024-11-25 05:46:05,500 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 2765992833837202958}
+2024-11-25 05:46:18,380 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4983897618091829150}
+2024-11-25 05:46:55,521 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1420056117530956349}
+2024-11-25 17:51:55,346 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 17:51:55,350 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness']}
+2024-11-25 17:51:55,354 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001D611137D90>}
+2024-11-25 17:55:43,743 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 17:55:43,749 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness', 'Excitement']}
+2024-11-25 17:55:43,752 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001DBA8D1B310>}
+2024-11-25 17:58:14,500 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 17:58:14,509 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness', 'Excitement', 'Love']}
+2024-11-25 17:58:14,520 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000272DB0B83D0>}
+2024-11-25 18:00:44,082 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 18:00:44,090 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness', 'Excitement', 'Love']}
+2024-11-25 18:00:44,093 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001A74BAA8250>}
+2024-11-25 18:08:06,443 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-25 18:08:06,505 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Happiness', 'Love']}
+2024-11-25 18:08:06,530 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000294A23ADA80>}
+2024-11-26 21:32:34,901 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-26 21:32:34,917 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2024-11-26 21:32:34,921 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001BA6614CF40>}
+2024-11-26 21:34:24,023 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'data/log/chatbotInstance.log'}
+2024-11-26 21:34:24,028 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Excitement']}
+2024-11-26 21:34:24,030 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002AA39B43FD0>}
+2025-03-02 01:04:08,425 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:04:08,430 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2025-03-02 01:04:08,431 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000026E87AC1A90>}
+2025-03-02 01:04:57,870 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:04:57,875 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2025-03-02 01:04:57,876 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001AFD2E11A90>}
+2025-03-02 01:10:50,276 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:10:50,280 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2025-03-02 01:10:50,282 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001E32704DA90>}
+2025-03-02 01:15:25,100 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:15:25,106 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': []}
+2025-03-02 01:15:25,107 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002C50E3CB770>}
+2025-03-02 01:16:39,469 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:16:39,472 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness']}
+2025-03-02 01:16:39,473 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002CA4DD0B770>}
+2025-03-02 01:17:02,661 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:17:02,664 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness']}
+2025-03-02 01:17:02,665 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001E9D5C8F770>}
+2025-03-02 01:17:12,735 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -537631255935207387}
+2025-03-02 01:17:27,566 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 7672808786826377292}
+2025-03-02 01:17:50,550 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 762382434180646385}
+2025-03-02 01:27:19,259 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:27:19,262 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness']}
+2025-03-02 01:27:19,263 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000247700DB770>}
+2025-03-02 01:32:44,532 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:32:44,534 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness']}
+2025-03-02 01:32:44,535 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001EE942DF770>}
+2025-03-02 01:32:54,599 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4549029372830520562}
+2025-03-02 01:33:15,585 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 6925702251773373276}
+2025-03-02 01:36:12,662 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:36:12,665 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise']}
+2025-03-02 01:36:12,667 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000026828EAF770>}
+2025-03-02 01:39:20,207 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4572192955788463794}
+2025-03-02 01:40:44,944 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:40:44,947 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise']}
+2025-03-02 01:40:44,948 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002A71459F770>}
+2025-03-02 01:40:48,911 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4584567505077906346}
+2025-03-02 01:44:21,318 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 01:44:21,321 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise']}
+2025-03-02 01:44:21,322 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000160D58EF770>}
+2025-03-02 01:44:32,231 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3781781572354816299}
+2025-03-02 01:46:58,438 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -5973213162344039025}
+2025-03-02 02:05:10,371 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:05:10,374 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement']}
+2025-03-02 02:05:10,375 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001437A19F770>}
+2025-03-02 02:05:21,805 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -6845818214050283097}
+2025-03-02 02:05:47,183 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8199660136943606322}
+2025-03-02 02:14:09,347 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:14:09,350 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement']}
+2025-03-02 02:14:09,351 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001A35D98F770>}
+2025-03-02 02:15:21,470 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:15:21,473 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness']}
+2025-03-02 02:15:21,474 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001E23FABB770>}
+2025-03-02 02:19:16,597 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:19:16,601 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:19:16,602 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002560D77F770>}
+2025-03-02 02:21:29,685 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:21:29,688 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:21:29,689 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000242F14DB770>}
+2025-03-02 02:22:57,491 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:22:57,494 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:22:57,495 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000276A4F3F770>}
+2025-03-02 02:23:45,629 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:23:45,632 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:23:45,633 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002A636E3B770>}
+2025-03-02 02:25:23,844 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:25:23,847 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:25:23,848 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001384151B770>}
+2025-03-02 02:27:20,402 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:27:20,405 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:27:20,406 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000028F509CF770>}
+2025-03-02 02:31:36,130 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -8943054238792661077}
+2025-03-02 02:54:32,412 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:54:32,417 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:54:32,418 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001A48861F770>}
+2025-03-02 02:54:57,118 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 4808544356690588846}
+2025-03-02 02:55:14,187 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 2495924049645026833}
+2025-03-02 02:55:35,132 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3591807826548521876}
+2025-03-02 02:57:13,526 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 02:57:13,529 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Surprise', 'Excitement', 'Happiness', 'Love']}
+2025-03-02 02:57:13,530 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002675D6DF770>}
+2025-03-02 03:00:24,172 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -717913027770789556}
+2025-03-02 03:01:18,643 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:01:18,646 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Happiness', 'Disgust', 'Excitement']}
+2025-03-02 03:01:18,647 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001FFCB4816A0>}
+2025-03-02 03:01:36,162 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -4565913567694156033}
+2025-03-02 03:02:42,771 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:02:42,774 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Happiness', 'Disgust', 'Excitement']}
+2025-03-02 03:02:42,776 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000169CD7716A0>}
+2025-03-02 03:03:14,702 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 83901865888950948}
+2025-03-02 03:05:31,922 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3299477424569399990}
+2025-03-02 03:08:03,519 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -7850889288733935275}
+2025-03-02 03:08:45,950 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 2546839202594476725}
+2025-03-02 03:09:13,241 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3474821081780324946}
+2025-03-02 03:09:50,550 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:09:50,553 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue']}
+2025-03-02 03:09:50,554 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000018AECA916A0>}
+2025-03-02 03:10:02,239 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 5184044266348198164}
+2025-03-02 03:13:38,698 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:13:38,701 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:13:38,703 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000019415ED16A0>}
+2025-03-02 03:14:35,322 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:14:35,326 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:14:35,327 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000022ADF9B16A0>}
+2025-03-02 03:15:40,434 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:15:40,436 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:15:40,438 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001E44BC116A0>}
+2025-03-02 03:16:57,678 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1322785296292204563}
+2025-03-02 03:19:56,796 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:19:56,799 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:19:56,800 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001BAB71916A0>}
+2025-03-02 03:21:43,442 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:21:43,445 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:21:43,446 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002AE016316A0>}
+2025-03-02 03:24:49,381 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:24:49,383 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:24:49,385 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000290C04116A0>}
+2025-03-02 03:28:30,508 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:28:30,511 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:28:30,512 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000024B0AAC16A0>}
+2025-03-02 03:39:16,346 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:39:16,349 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Fatigue', 'Excitement']}
+2025-03-02 03:39:16,351 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000016439DD16A0>}
+2025-03-02 03:39:26,985 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8999560013205713990}
+2025-03-02 03:39:39,413 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8999560013205713990}
+2025-03-02 03:39:58,604 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8999560013205713990}
+2025-03-02 03:43:15,557 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:43:15,559 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 03:43:15,560 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001F8CC7816A0>}
+2025-03-02 03:45:06,594 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:45:06,597 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 03:45:06,598 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001AE636816A0>}
+2025-03-02 03:48:01,813 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 03:48:01,816 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 03:48:01,817 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000178299816A0>}
+2025-03-02 11:33:40,523 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 11:33:40,526 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 11:33:40,527 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001D9363916A0>}
+2025-03-02 11:38:32,093 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 11:38:32,096 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Fatigue']}
+2025-03-02 11:38:32,097 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000002223F5E16A0>}
+2025-03-02 11:39:07,808 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 11:39:07,810 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Fatigue', 'Happiness']}
+2025-03-02 11:39:07,811 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001E5B8F716A0>}
+2025-03-02 15:14:27,391 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:14:27,395 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Fatigue', 'Happiness']}
+2025-03-02 15:14:27,397 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000202801616A0>}
+2025-03-02 15:17:18,850 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:17:18,853 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Fatigue', 'Happiness', 'Loneliness']}
+2025-03-02 15:17:18,855 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000205E86B16A0>}
+2025-03-02 15:18:07,532 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 6111187712860504438}
+2025-03-02 15:26:50,114 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:26:50,117 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Fatigue', 'Loneliness', 'Surprise']}
+2025-03-02 15:26:50,118 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000231952D16A0>}
+2025-03-02 15:34:13,809 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 5273327726624026254}
+2025-03-02 15:35:43,188 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:35:43,191 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 15:35:43,192 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000022341BF16A0>}
+2025-03-02 15:37:42,873 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:37:42,876 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Excitement']}
+2025-03-02 15:37:42,877 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000027C11F016A0>}
+2025-03-02 15:38:38,238 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 15:38:38,241 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Excitement', 'Happiness']}
+2025-03-02 15:38:38,242 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x00000255506516A0>}
+2025-03-02 15:38:50,602 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1958623855203118976}
+2025-03-02 15:39:09,147 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3143906890644224124}
+2025-03-02 15:39:33,776 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -3060472051077325514}
+2025-03-02 22:17:26,365 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 22:17:26,368 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Excitement', 'Happiness']}
+2025-03-02 22:17:26,369 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x000001C675F3B380>}
+2025-03-02 22:17:38,597 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -5168805474036741892}
+2025-03-02 22:17:54,120 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -106456938813409238}
+2025-03-02 22:18:57,539 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 0}
+2025-03-02 22:19:24,258 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 3312528704857298460}
+2025-03-02 22:20:46,208 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 1624521698301237634}
+2025-03-02 22:21:10,243 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 6206142578271329700}
+2025-03-02 22:22:24,203 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': -6004763803469124452}
+2025-03-02 22:23:53,294 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 22:23:53,297 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust']}
+2025-03-02 22:23:53,298 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000023BFEF5B380>}
+2025-03-02 22:24:07,192 - util.func.chatbot - INFO - {'action': 'Chatbot Run', 'message': 'Running Chatbot', 'prompt': 8004335400374833204}
+2025-03-02 22:24:16,892 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Initializing Chatbot class', 'emotion': True, 'userNotebook': True, 'logFile': 'c:\\Users\\nilab\\OneDrive\\Desktop\\jarvis 11\\data/log/chatbotInstance.log'}
+2025-03-02 22:24:16,895 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'Emotion system initialized', 'emotions_available': ['Calmness', 'Sadness', 'Trust', 'Happiness']}
+2025-03-02 22:24:16,897 - util.func.chatbot - INFO - {'action': 'Chatbot Initialization', 'message': 'User notebook initialized', 'notes_available': <util.func.user_notebook.UserNotebook object at 0x0000016A1FECB380>}
